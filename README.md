@@ -1,11 +1,15 @@
-### Olá me chamo Rodrigo 👋 
+## Olá me chamo Rodrigo 👋 
+
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hurtadorodrigo/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigohurtado10/)
 
 
+![Hurtado GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigohurtado99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigohurtado99&layout=compact)
 
-### Tecnologias que uso no meu dia a dia
+## Tecnologias que uso no meu dia a dia
+
 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -18,7 +22,12 @@
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 
-#### Desenvolvedor desde 2021, utilizando conceitos básicos e intermediários em aplicações reais e projetos pessoais, buscando sempre me aprimorar cada vez mais e buscar novos desáfios... 
+#### Sou desenvolvedor desde 2021, com experiência na aplicação de conceitos básicos e intermediários em projetos reais e pessoais. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios, com o objetivo de expandir meus conhecimentos e explorar novas tecnologias.
+
+
+
+
+
 <!--
 **rodrigohurtado99/rodrigohurtado99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
