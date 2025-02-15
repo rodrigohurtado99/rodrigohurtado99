@@ -1,4 +1,10 @@
-## Hi there 👋
+### Olá sou o Rodrigo Hurtado 👋
+
+[[!blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]
+
+[[!instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigohurtado10/)
+
+[[!linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hurtadorodrigo/)
 
 <!--
 **rodrigohurtado99/rodrigohurtado99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
