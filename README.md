@@ -1,4 +1,6 @@
 ## Olá me chamo Rodrigo 👋 
+#### Sou desenvolvedor desde 2021, com experiência na aplicação de conceitos básicos e intermediários em projetos reais e pessoais. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios, com o objetivo de expandir meus conhecimentos e explorar novas tecnologias.
+
 
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hurtadorodrigo/)
