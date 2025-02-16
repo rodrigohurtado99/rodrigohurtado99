@@ -24,7 +24,7 @@
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 
-#### Sou desenvolvedor desde 2021, com experiência na aplicação de conceitos básicos e intermediários em projetos reais e pessoais. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios, com o objetivo de expandir meus conhecimentos e explorar novas tecnologias.
+
 
 
 
